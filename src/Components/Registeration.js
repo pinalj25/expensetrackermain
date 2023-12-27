@@ -3,6 +3,22 @@ import axios from "axios";
 import "./Re.css";
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 import { useNavigate } from "react-router-dom";
 
 const Register = () => {
